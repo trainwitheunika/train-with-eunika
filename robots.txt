@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuentrenadoronline.com/sitemap.xml
